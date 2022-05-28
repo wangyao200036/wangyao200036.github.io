@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Мой новый сайт Hugo</title>
+        <link>https://github.com/wangyao200036/wangyao200036.github.io.git/fr/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language>
+            <atom:link href="https://github.com/wangyao200036/wangyao200036.github.io.git/fr/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

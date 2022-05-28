@@ -1,65 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>https://wangyao200036.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 24 May 2022 02:33:49 +0800</lastBuildDate><atom:link href="https://wangyao200036.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>3</title>
-      <link>https://wangyao200036.github.io/post/3/</link>
-      <pubDate>Tue, 24 May 2022 02:33:49 +0800</pubDate>
-      
-      <guid>https://wangyao200036.github.io/post/3/</guid>
-      <description>The world’s fastest framework for building websites | Hugo (gohugo.io)</description>
-    </item>
-    
-    <item>
-      <title>5</title>
-      <link>https://wangyao200036.github.io/post/5/</link>
-      <pubDate>Tue, 24 May 2022 02:01:18 +0800</pubDate>
-      
-      <guid>https://wangyao200036.github.io/post/5/</guid>
-      <description>c++
-C++ широко используется для разработки программного обеспечения, являясь одним из самых популярных языков программирования[мнения 1][мнения 2]. Область его применения включает создание операционных систем, разнообразных прикладных программ, драйверов устройств, приложений для встраиваемых систем, высокопроизводительных серверов, а также игр. Существует множество реализаций языка C++, как бесплатных, так и коммерческих и для различных платформ. Например, на платформе x86 это GCC, Visual C++, Intel C++ Compiler, Embarcadero (Borland) C++ Builder и другие. C++ оказал огромное влияние на другие языки программирования, в первую очередь на Java и C#.</description>
-    </item>
-    
-    <item>
-      <title>4</title>
-      <link>https://wangyao200036.github.io/post/4/</link>
-      <pubDate>Tue, 24 May 2022 01:45:07 +0800</pubDate>
-      
-      <guid>https://wangyao200036.github.io/post/4/</guid>
-      <description> eLibrary : https://elibrary.ru/; Google Scholar : https://scholar.google.com/; ORCID : https://orcid.org/; Mendeley : https://www.mendeley.com/; ResearchGate : https://www.researchgate.net/; Academia.edu : https://www.academia.edu/; arXiv : https://arxiv.org/; github : https://github.com/.  </description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://wangyao200036.github.io/post/2/</link>
-      <pubDate>Tue, 24 May 2022 00:38:10 +0800</pubDate>
-      
-      <guid>https://wangyao200036.github.io/post/2/</guid>
-      <description>![](C:\Users\王耀\AppData\Local\Temp\WeChat Files\f527c42380dffa3cf05054f04a77210.jpg)
-Институт
-факультет физико-математических и естественных наук направление
-прикладная математика и информатика форма обучения
-очная уровень образования
-бакалавриат крус
-1 номер группы
-НПМбд- 02-21 номер студенческого билета
-1032215430 </description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://wangyao200036.github.io/post/1/</link>
-      <pubDate>Sat, 07 May 2022 20:25:15 +0800</pubDate>
-      
-      <guid>https://wangyao200036.github.io/post/1/</guid>
-      <description>Ван Яо 21</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://github.com/wangyao200036/wangyao200036.github.io.git/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 May 2022 00:38:10 &#43;0800</lastBuildDate>
+            <atom:link href="https://github.com/wangyao200036/wangyao200036.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
