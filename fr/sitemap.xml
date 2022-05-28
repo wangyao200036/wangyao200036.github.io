@@ -2,54 +2,54 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://github.com/wangyao200036/wangyao200036.github.io.git/fr/categories/</loc><xhtml:link
+            <loc>https://wangyao200036.github.io/fr/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/categories/"
+                        href="https://wangyao200036.github.io/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/categories/"
+                        href="https://wangyao200036.github.io/zh-cn/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/ru/categories/"
+                        href="https://wangyao200036.github.io/ru/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://github.com/wangyao200036/wangyao200036.github.io.git/fr/categories/"
+                    href="https://wangyao200036.github.io/fr/categories/"
                     /></url><url>
-            <loc>https://github.com/wangyao200036/wangyao200036.github.io.git/fr/tags/</loc><xhtml:link
+            <loc>https://wangyao200036.github.io/fr/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/tags/"
+                        href="https://wangyao200036.github.io/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/tags/"
+                        href="https://wangyao200036.github.io/zh-cn/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/ru/tags/"
+                        href="https://wangyao200036.github.io/ru/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://github.com/wangyao200036/wangyao200036.github.io.git/fr/tags/"
+                    href="https://wangyao200036.github.io/fr/tags/"
                     /></url><url>
-            <loc>https://github.com/wangyao200036/wangyao200036.github.io.git/fr/</loc><xhtml:link
+            <loc>https://wangyao200036.github.io/fr/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/"
+                        href="https://wangyao200036.github.io/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/"
+                        href="https://wangyao200036.github.io/zh-cn/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="https://github.com/wangyao200036/wangyao200036.github.io.git/ru/"
+                        href="https://wangyao200036.github.io/ru/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://github.com/wangyao200036/wangyao200036.github.io.git/fr/"
+                    href="https://wangyao200036.github.io/fr/"
                     /></url></urlset>

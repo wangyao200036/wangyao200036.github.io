@@ -2,26 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 我的全新 Hugo 网站</title>
-    <link>https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/post/</link>
+    <link>https://wangyao200036.github.io/zh-cn/post/</link>
     <description>Recent content in Posts on 我的全新 Hugo 网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 May 2022 00:38:10 +0800</lastBuildDate><atom:link href="https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 02:33:49 +0800</lastBuildDate><atom:link href="https://wangyao200036.github.io/zh-cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3</title>
+      <link>https://wangyao200036.github.io/zh-cn/post/3/</link>
+      <pubDate>Tue, 24 May 2022 02:33:49 +0800</pubDate>
+      
+      <guid>https://wangyao200036.github.io/zh-cn/post/3/</guid>
+      <description>The world’s fastest framework for building websites | Hugo (gohugo.io)</description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://wangyao200036.github.io/zh-cn/post/5/</link>
+      <pubDate>Tue, 24 May 2022 02:01:18 +0800</pubDate>
+      
+      <guid>https://wangyao200036.github.io/zh-cn/post/5/</guid>
+      <description>c++
+1 2 3  C++ широко используется для разработки программного обеспечения, являясь одним из самых популярных языков программирования[мнения 1][мнения 2]. Область его применения включает создание операционных систем, разнообразных прикладных программ, драйверов устройств, приложений для встраиваемых систем, высокопроизводительных серверов, а также игр. Существует множество реализаций языка C++, как бесплатных, так и коммерческих и для различных платформ. Например, на платформе x86 это GCC, Visual C++, Intel C++ Compiler, Embarcadero (Borland) C++ Builder и другие.</description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://wangyao200036.github.io/zh-cn/post/4/</link>
+      <pubDate>Tue, 24 May 2022 01:45:07 +0800</pubDate>
+      
+      <guid>https://wangyao200036.github.io/zh-cn/post/4/</guid>
+      <description> eLibrary : https://elibrary.ru/; Google Scholar : https://scholar.google.com/; ORCID : https://orcid.org/; Mendeley : https://www.mendeley.com/; ResearchGate : https://www.researchgate.net/; Academia.edu : https://www.academia.edu/; arXiv : https://arxiv.org/; github : https://github.com/.  </description>
+    </item>
+    
     <item>
       <title>2</title>
-      <link>https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/post/2/</link>
+      <link>https://wangyao200036.github.io/zh-cn/post/2/</link>
       <pubDate>Tue, 24 May 2022 00:38:10 +0800</pubDate>
       
-      <guid>https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/post/2/</guid>
-      <description>![](C:\Users\王耀\AppData\Local\Temp\WeChat Files\f527c42380dffa3cf05054f04a77210.jpg) Институт факультет физико-мате</description>
+      <guid>https://wangyao200036.github.io/zh-cn/post/2/</guid>
+      <description>![](C:\Users\王耀\AppData\Local\Temp\WeChat Files\f527c42380dffa3cf05054f04a77210.jpg) Институт 1 факультет физико-мат</description>
     </item>
     
     <item>
       <title>1</title>
-      <link>https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/post/1/</link>
+      <link>https://wangyao200036.github.io/zh-cn/post/1/</link>
       <pubDate>Sat, 07 May 2022 20:25:15 +0800</pubDate>
       
-      <guid>https://github.com/wangyao200036/wangyao200036.github.io.git/zh-cn/post/1/</guid>
+      <guid>https://wangyao200036.github.io/zh-cn/post/1/</guid>
       <description>Ван Яо 21</description>
     </item>
     
